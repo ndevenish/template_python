@@ -1,5 +1,5 @@
 {
-    "package_name": null,
+    "name": null,
     "author": "Nicholas Devenish <ndevenish@gmail.com>",
     "version": "0.1.0",
     "compatible_python": "^3.8"

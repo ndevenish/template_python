@@ -5,7 +5,7 @@ description = ""
 authors = ["{{cookiecutter.author}}"]
 
 [tool.poetry.dependencies]
-python = "{{cookiecutter.minimum_python_version}}"
+python = "{{cookiecutter.compatible_python}}"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
